@@ -1,0 +1,22 @@
+{
+  "name": "iobroker.vuplus",
+  "version": "0.0.2",
+  "description": "ioBroker vuplus Adapter",
+  "homepage": "https://github.com/klausb/iobroker.yamaha",
+  "license": "MIT",
+  "keywords": [
+    "ioBroker",
+    "vuplus",
+    "Home automation"
+  ],
+  "dependencies": {
+    "net": "^1.0.2",
+    "ping": "^0.2.1",
+    "request": "^2.64.0",
+    "xml2js": "^0.4.17"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klausb/ioBroker.vuplus.git"
+  }
+}
